@@ -19,4 +19,5 @@ userIdNum = 435;
 //boolean
 
 let isLoggedIn: boolean = false;
+
 export {};
