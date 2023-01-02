@@ -1,1 +1,1 @@
-function getUsername() {}
+function getUsername(username: string) {}
