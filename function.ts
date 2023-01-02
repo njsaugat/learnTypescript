@@ -1,3 +1,3 @@
-function getUsername(username: string) {
+function greetUser(username: string) {
   return;
 }
