@@ -3,4 +3,4 @@ function greetUser(username: string): string {
 }
 console.log(greetUser('saugat'));
 
-export {};
+export {}; // this ig exports the module as object rather than func
